@@ -1,0 +1,31 @@
+body {
+    font-family: 'Lora', serif;
+    color: #333;
+    font-size: 1.1em;
+    line-height: 1.5em;
+    background-color: #fffef7;
+}
+main {
+    max-width: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
+img {
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+a, a:visited {
+    color: #3d8423;
+}
+a:hover {
+    color: #846a23;
+
+}
+h1 {
+    text-align: center;
+    margin: 40px 0px;
+}
+.twitter {
+    text-align: center;
+}
